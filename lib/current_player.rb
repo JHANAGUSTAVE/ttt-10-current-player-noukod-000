@@ -1,3 +1,3 @@
 def turn_count(board)
-  return "O", " ", " ", " ", "X", " ", " ", " ", "X"
+  return ["O", " ", " ", " ", "X", " ", " ", " ", "X"]
 end
