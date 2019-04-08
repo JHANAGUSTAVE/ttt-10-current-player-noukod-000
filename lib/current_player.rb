@@ -1,4 +1,5 @@
 def turn_count(board)
   board = ["X", "O"]
-  counter = 1
+  counter = 1 
+  board.
 end
